@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Mijn Portfolio", page_icon="🧰", layout="centered")
 
-st.title("👋 Welkom op mijn Portfolio | Hamza Maroc)
+st.title("👋 Welkom op mijn Portfolio | Hamza Maroc")
 st.subheader("FTTH Designer | Python Enthousiast")
 
 st.write("""
