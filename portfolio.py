@@ -18,10 +18,6 @@ st.markdown("""
 - 💡 Technisch inzicht, probleemoplossend denken
 """)
 
-st.header("📂 Projecten")
-st.markdown("""
-### 📁 CSV Automatisatie
-Tool om automatisch Excel- of CSV-bestanden van kabeldata om te zetten naar juiste structuur.
 
 
 st.header("📬 Contact")
