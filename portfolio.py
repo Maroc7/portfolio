@@ -3,7 +3,7 @@ import streamlit as st
 st.set_page_config(page_title="Mijn Portfolio", page_icon="🧰", layout="centered")
 
 st.title("👋 Welkom op mijn Portfolio")
-st.subheader("FTTH Designer | Python Enthousiast | )
+st.subheader("FTTH Designer | Python Enthousiast")
 
 st.write("""
 Ik werk momenteel als FTTH Designer.  
